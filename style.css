@@ -1,0 +1,248 @@
+tr:nth-child(even)
+{
+  background:	#ddd;
+}
+.parent{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.child{
+  background:#fff;
+  border:2px solid #8456B2;
+  padding:2%;
+  margin:2%;
+  box-shadow:3px 3px 3px #ddd;
+
+}
+img{
+  width:250px;
+  height:300px;
+  border-radius:100%;
+  border:2px solid #8456B2;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3,
+h2{
+  text-align:center;
+}
+.a{
+  display:block;
+  text-align: center;
+  margin-left:auto;
+  text-decoration:none;
+  background:#8456B2;
+  color:#fff;
+  padding:2%;
+}
+.leftChild{
+  width:92%;
+  border:2px solid #13ECEC;
+  padding:2%;
+  margin:2%;
+  /* text-align:center; */
+}
+.rightChild{
+  width:92%;
+  border:2px solid #C296D8;
+  padding:2%;
+  margin:2%;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mail{
+  text-decoration:none;
+  font-size:20px;
+
+}
+@media only screen and (min-width:320px) and (max-width:480px)
+{
+
+  .parent{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+  }
+  .child{
+    background:#fff;
+    border:2px solid #8456B2;
+    padding:2%;
+    margin:2%;
+    box-shadow:3px 3px 3px #ddd;
+
+  }
+  img{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    border:2px solid #8456B2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h3,
+  h2{
+    text-align:center;
+  }
+  .a{
+    display:block;
+    text-align: center;
+    margin-left:auto;
+    text-decoration:none;
+    background:#8456B2;
+    color:#fff;
+    padding:2%;
+  }
+  .leftChild{
+    width:90%;
+    border:2px solid #13ECEC;
+    padding:2%;
+    margin:2%;
+    /* text-align:center; */
+  }
+  .rightChild{
+    width:90%;
+    border:2px solid #C296D8;
+    padding:2%;
+    margin:2%;
+  }
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .mail{
+    text-decoration:none;
+    font-size:20px;
+
+  }
+}
+@media only screen and (min-width:481px) and (max-width:768px)
+{
+
+  .parent{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+  }
+  .child{
+    background:#fff;
+    border:2px solid #8456B2;
+    padding:2%;
+    margin:2%;
+    box-shadow:3px 3px 3px #ddd;
+
+  }
+  img{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    border:2px solid #8456B2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h3,
+  h2{
+    text-align:center;
+  }
+  .a{
+    display:block;
+    text-align: center;
+    margin-left:auto;
+    text-decoration:none;
+    background:#8456B2;
+    color:#fff;
+    padding:2%;
+  }
+  .leftChild{
+    width:100%;
+    border:2px solid #13ECEC;
+    padding:2%;
+    margin:2%;
+    /* text-align:center; */
+  }
+  .rightChild{
+    width:100%;
+    border:2px solid #C296D8;
+    padding:2%;
+    margin:2%;
+  }
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .mail{
+    text-decoration:none;
+    font-size:20px;
+
+  }
+}
+@media only screen and (min-width:769px) and (max-width:1024px)
+{
+
+  .parent{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+  }
+  .child{
+    background:#fff;
+    border:2px solid #8456B2;
+    padding:2%;
+    margin:2%;
+    box-shadow:3px 3px 3px #ddd;
+
+  }
+  img{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    border:2px solid #8456B2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h3,
+  h2{
+    text-align:center;
+  }
+  .a{
+    display:block;
+    text-align: center;
+    margin-left:auto;
+    text-decoration:none;
+    background:#8456B2;
+    color:#fff;
+    padding:2%;
+  }
+  .leftChild{
+    width:100%;
+    border:2px solid #13ECEC;
+    padding:2%;
+    margin:2%;
+    /* text-align:center; */
+  }
+  .rightChild{
+    width:100%;
+    border:2px solid #C296D8;
+    padding:2%;
+    margin:2%;
+  }
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .mail{
+    text-decoration:none;
+    font-size:20px;
+
+  }
+}

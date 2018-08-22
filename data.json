@@ -1,0 +1,60 @@
+{
+  "career":{
+    "info":"To Enhance my Educational and Professional Skills in a Stable and Dynamic Workplace."
+  },
+  "education":[
+    {
+      "degree":"MCA(Master of Computer Application)",
+      "institute":"Siddharth Insitute of engi.&technology",
+      "data":["  Pursuing "]
+    },
+    {
+      "degree":"B.sc(Computer Science)",
+      "institute":"Himaja Degree College",
+      "data":["2014-17","72%"]
+    },
+    {
+      "degree":"Intermediate(M.P.C)",
+      "institute":"Himaja Junior College",
+      "data":["2012-14","68%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Z.P.H.S",
+      "data":["2002-12","93%"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"Web Technologies      :",
+      "set":["Javascript","CSS","HTML","PHP"]
+    },
+    {
+      "title":"Programming Languages :",
+      "set":["C","Python","Java","c++"]
+    },
+    {
+      "title":"Operating Systems     :",
+      "set":["Windows","Linux","Android","Ubuntu"]
+    },
+    {
+      "title":"Data Bases            :",
+      "set":["Sybase","Mysql","sql","Oracle","NoSql"]
+    }
+
+  ],
+  "achievements":[
+    {
+      "achivedData":"Got <strong>1<sup>st</sup></strong>Prize in Poster Presentation."
+    },
+    {
+      "achivedData":"Got <strong>2<sup>nd</sup></strong>Prize in Short Film."
+    },
+    {
+      "achivedData":"Got <strong>3<sup>rd </sup></strong>Prize in PPT Presentation."
+    },
+    {
+      "achivedData":"Got <strong>3<sup>rd</sup></strong>Prize in Addjob."
+    }
+  ]
+}
